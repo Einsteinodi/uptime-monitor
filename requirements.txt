@@ -4,3 +4,8 @@ sqlalchemy
 psycopg[binary]
 alembic
 pydantic-settings
+
+pyjwt
+pwdlib[argon2]
+email-validator
+python-multipart
