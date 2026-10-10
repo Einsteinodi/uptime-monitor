@@ -9,3 +9,6 @@ pyjwt
 pwdlib[argon2]
 email-validator
 python-multipart
+
+pytest
+httpx2
